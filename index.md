@@ -25,7 +25,7 @@ layout: homepage
 
 ## Research Interests
 
-- ** Computational Methods, Image Processing, Matrix Theory and Applications, Riemannian manifolds**  
+- **Computational Methods, Image Processing, Matrix Theory and Applications, Riemannian manifolds**  
 
 ## Main Classes Taken
 
