@@ -52,10 +52,8 @@ layout: homepage
 - **Linear Algebra  (High pass)**
  
 ## Publications
--Z.H. He, T.T. Liu, X.X. Wang, [Eigenvalues of Quaternion Tensors: Properties, Algorithms and Applications](https://doi.org/10.1007/s00006-024-01366-3), Advances in Applied Clifford Algebras, 35 (2025), 4 (23 pages).
--Z.H. He, W.L. Qin, J. Tian, X.X. Wang, Y. Zhang, [A new Sylvester-type quaternion matrix equation model for color image data transmission](https://doi.org/10.1007/s40314-024-02732-4), Computational and Applied Mathematics. 43 (2024), 227 (30 pages)
-![image](https://github.com/user-attachments/assets/916a7ebc-8809-4549-af07-0d374d518008)
-
+- Z.H. He, T.T. Liu, X.X. Wang, [Eigenvalues of Quaternion Tensors: Properties, Algorithms and Applications](https://doi.org/10.1007/s00006-024-01366-3), Advances in Applied Clifford Algebras, 35 (2025), 4 (23 pages).
+- Z.H. He, W.L. Qin, J. Tian, X.X. Wang, Y. Zhang, [A new Sylvester-type quaternion matrix equation model for color image data transmission](https://doi.org/10.1007/s40314-024-02732-4), Computational and Applied Mathematics. 43 (2024), 227 (30 pages)
 - 	Z.H. He, X.X. Wang, Y.F. Zhao, [Eigenvalues of Quaternion Tensors with Applications to Color Video Processing](https://doi.org/10.1007/s10915-022-02058-5), Journal of Scientific Computing. 94 (2023).
 - Z.H. He, C. Navasca, X.X. Wang, [Decomposition for a quaternion tensor triplet with applications](https://doi.org/10.1007/s00006-021-01195-8), Advances in Applied Clifford Algebras, 32 (2022), 9 (19 pages).
 - Z.H. He, W.L. Qin, X.X. Wang, [Some applications of a decomposition for five quaternion matrices in control system and color image processing](https://doi.org/10.1007/s40314-021-01579-3), Computational and Applied Mathematics, 40 (2021), 205 (29 pages).
