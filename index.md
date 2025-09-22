@@ -1,17 +1,18 @@
 ---
 layout: homepage
 ---
-
-
-
+## Current Position
+- **2025-Now**: Research Associate, Department of Mathematics, Michigan State University
+  
 ## Education
-- **2021-Now**: Ph.D. student in Mathematics Department of Mathematics and Statistics,
+- **2021-2025**: Ph.D. student in Mathematics Department of Mathematics and Statistics,
  University of Nevada, Reno. GPA: 4 (out of 4)
 - **2017-2020**: M.Sc. in Statistics Shanghai University. Average Score: 90.25 (out of 100)
 - **2013-2017**:  B.Sc. in Information and Computing Science North China University of Water
  Resources and Electric Power. Consistently ranked first in my major each semester
 
 ## Awards
+- College of Science Outstanding Graduate Assistant Award, University of Nevada, Reno.	2025
 - Graduate Student Association (GSA) Travel Award, University of Nevada, Reno, 2022. ($500)
 - Graduate Student Association (GSA) Research Grant Award, University of Nevada, Reno, 2021. ($1,000)
 - Graduate Dean’s Merit Scholarship, University of Nevada, Reno, 2021. ($10,000)
@@ -25,7 +26,7 @@ layout: homepage
 
 ## Research Interests
 
-- **Computational Methods, Image Processing, Matrix Theory and Applications, Riemannian manifolds**  
+- **Computational Methods, Image Processing, Single-Cell Analysis, Matrix Theory and Applications, Riemannian manifolds**  
 
 ## Main Classes Taken
 
@@ -40,17 +41,13 @@ layout: homepage
 
 
 ## Teaching
+- **Mathematics-Assisted AI and AI-inspired Mathematics**, Fall 2025 (Covered lectures on advanced topics including manifold theory and quaternionic Grassmannians)
 - **Introductory Calculus for Business and Social Sciences**, Spring 2022, Summer 2023, Fall 2024, Spring 2025
 - **Precalculus I**, Fall 2022, Spring 2023
 - **Precalculus II**, Winter 2023, Summer 2023
 - **Theory of Positive Integers**, Fall 2021, Fall 2023 (TA)
 
-  
-## Qualifying Exams
-- **Analysis   (High pass)**
--  **Numerical analysis   (High pass)**
-- **Linear Algebra  (High pass)**
- 
+
 ## Publications
 - Z.H. He, T.T. Liu, X.X. Wang, [Eigenvalues of Quaternion Tensors: Properties, Algorithms and Applications](https://doi.org/10.1007/s00006-024-01366-3), Advances in Applied Clifford Algebras, 35 (2025), 4 (23 pages).
 - Z.H. He, W.L. Qin, J. Tian, X.X. Wang, Y. Zhang, [A new Sylvester-type quaternion matrix equation model for color image data transmission](https://doi.org/10.1007/s40314-024-02732-4), Computational and Applied Mathematics. 43 (2024), 227 (30 pages)
@@ -71,6 +68,7 @@ layout: homepage
 - 	X.X. Wang, Arnoldi method for right eigenvalue problem of the large-scale quaternion matrices, Joint Mathematics Meetings (JMM 2022), Seattle, January 5-8, 2022, postponed due to COVID-19 and held virtually, April 6-9, 2022. 
 
 ## Conference Attended
+
 -Chair, Special Session on Matrix Analysis and Its Applications, Joint Mathematics Meetings (JMM 2025), Seattle, January 8-11, 2025.
 -Local Organizer, The 2024 Workshop Matrices and Operators (Mao 2024), UNR, June 14-17 2024.  
 - Joint Mathematics Meetings (JMM 2024), San Francisco, January 3-6, 2024.
