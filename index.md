@@ -69,8 +69,8 @@ layout: homepage
 
 ## Conference Attended
 
--Chair, Special Session on Matrix Analysis and Its Applications, Joint Mathematics Meetings (JMM 2025), Seattle, January 8-11, 2025.
--Local Organizer, The 2024 Workshop Matrices and Operators (Mao 2024), UNR, June 14-17 2024.  
+- Chair, Special Session on Matrix Analysis and Its Applications, Joint Mathematics Meetings (JMM 2025), Seattle, January 8-11, 2025.
+- Local Organizer, The 2024 Workshop Matrices and Operators (Mao 2024), UNR, June 14-17 2024.  
 - Joint Mathematics Meetings (JMM 2024), San Francisco, January 3-6, 2024.
 -	The 10th International Conference on Matrix Analysis and Applications (ICMAA), KunMing, China, August 15-18, 2023 (Virtual).
 -	International Workshop on Matrix Analysis and Its Applications, Quynhon, Vietnam, July 7-8, 2023 (Virtual).
