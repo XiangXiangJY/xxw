@@ -60,6 +60,11 @@ layout: homepage
 -	G.H. Peng, X.X. Wang, Y.Z. Zhang, [Multidimensional scaling analysis based on attribute reduction of bivariate mutual information](https://doi.org/10.12988/imf.2017.610133), International Mathematical Forum, 12 (3) (2017) 111-118. 
 
 ## Presentations
+
+- X.X. Wang, Grassmannian Methods for Visual and Single-Cell Data, Joint Mathematics Meetings (JMM 2026), Washington, January 4-7, 2026.
+- X.X. Wang, Color Image and Video Recognition Based on Quaternionic Grassmannians, 2025 SIAM Great Lakes Section Annual Meeting, Chicago, September 27-28, 2025.
+-	X.X. Wang, Quaternion Grassmannians for Color Image Set Recognition, Joint Mathematics Meetings (JMM 2025), Seattle, January 8-11, 2025.
+-	X.X.Wang, Some Properties of Geodesic Triangles in Grassmannians, The 2024 Workshop Matrices and Operators (MAO 2024), Reno, USA, June 14-17, 2024.
 - X.X.Wang, Some Inequalities of Geometric Means in Grassmannians, Joint Mathematics Meetings (JMM 2024), San Francisco, January 3-6, 2024.
 - 	X.X.Wang, Some Inequalities of Geometric Means in Grassmannians, 6th Annual GSA Poster Symposium, November 1, 2023.
 - 	X.X. Wang, Geometric means and their properties of Grassmannians, The 10th International Conference on Matrix Analysis and Applications (ICMAA), KunMing, China, August 15-18, 2023.
@@ -69,6 +74,10 @@ layout: homepage
 
 ## Conference Attended
 
+-	Co-organizer, Special Session on Matrix Analysis and Its Applications, Joint Mathematics Meetings (JMM 2026), Washington, January 4-7, 2026.
+- 2025 SIAM Great Lakes Section Annual Meeting, Chicago, September 27-28, 2025. 
+- The 2025 Workshop on Matrices and Operators (MAO 2025) will be held at the University of Regina, Canada, August 19-21, 2025. (Upcoming)
+-	Volunteer, The Association of Mathematics Teacher Educators (AMTE) 2025 Annual Conference, Grand Sierra Resort, Reno, NV, February 6–8, 2025.
 - Chair, Special Session on Matrix Analysis and Its Applications, Joint Mathematics Meetings (JMM 2025), Seattle, January 8-11, 2025.
 - Local Organizer, The 2024 Workshop Matrices and Operators (Mao 2024), UNR, June 14-17 2024.  
 - Joint Mathematics Meetings (JMM 2024), San Francisco, January 3-6, 2024.
