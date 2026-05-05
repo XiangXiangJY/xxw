@@ -49,6 +49,8 @@ layout: homepage
 
 
 ## Publications
+- X.X. Wang, S. Cottrell, G.-W. Wei, Multiscale Grassmann Manifolds for Single-Cell RNA-seq Data Analysis, Machine Learning: Science and Technology, (2026).
+- X.X. Wang, T.-Y. Tam, Color Image Set Recognition Based on Quaternionic Grassmannians, Journal of Mathematical Imaging and Vision, 68 (2026), 13.
 - Z.H. He, T.T. Liu, X.X. Wang, [Eigenvalues of Quaternion Tensors: Properties, Algorithms and Applications](https://doi.org/10.1007/s00006-024-01366-3), Advances in Applied Clifford Algebras, 35 (2025), 4 (23 pages).
 - Z.H. He, W.L. Qin, J. Tian, X.X. Wang, Y. Zhang, [A new Sylvester-type quaternion matrix equation model for color image data transmission](https://doi.org/10.1007/s40314-024-02732-4), Computational and Applied Mathematics. 43 (2024), 227 (30 pages)
 - 	Z.H. He, X.X. Wang, Y.F. Zhao, [Eigenvalues of Quaternion Tensors with Applications to Color Video Processing](https://doi.org/10.1007/s10915-022-02058-5), Journal of Scientific Computing. 94 (2023).
