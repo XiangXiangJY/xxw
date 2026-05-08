@@ -78,7 +78,7 @@ layout: homepage
 
 -	Co-organizer, Special Session on Matrix Analysis and Its Applications, Joint Mathematics Meetings (JMM 2026), Washington, January 4-7, 2026.
 - 2025 SIAM Great Lakes Section Annual Meeting, Chicago, September 27-28, 2025. 
-- The 2025 Workshop on Matrices and Operators (MAO 2025) will be held at the University of Regina, Canada, August 19-21, 2025. (Upcoming)
+- The 2025 Workshop on Matrices and Operators (MAO 2025) will be held at the University of Regina, Canada, August 19-21, 2025.
 -	Volunteer, The Association of Mathematics Teacher Educators (AMTE) 2025 Annual Conference, Grand Sierra Resort, Reno, NV, February 6–8, 2025.
 - Chair, Special Session on Matrix Analysis and Its Applications, Joint Mathematics Meetings (JMM 2025), Seattle, January 8-11, 2025.
 - Local Organizer, The 2024 Workshop Matrices and Operators (Mao 2024), UNR, June 14-17 2024.  
