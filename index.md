@@ -1,6 +1,9 @@
 ---
 layout: homepage
 ---
+## News
+- **[May 2026]** Featured in Nevada Today: [Math alumna advances mathematical methods at Michigan State University](https://www.unr.edu/nevada-today/news/2026/alumna-xiang-xiang-wang)
+
 ## Current Position
 - **2025-Now**: Research Associate, Department of Mathematics, Michigan State University
   
@@ -68,7 +71,7 @@ layout: homepage
 -	X.X. Wang, Quaternion Grassmannians for Color Image Set Recognition, Joint Mathematics Meetings (JMM 2025), Seattle, January 8-11, 2025.
 -	X.X.Wang, Some Properties of Geodesic Triangles in Grassmannians, The 2024 Workshop Matrices and Operators (MAO 2024), Reno, USA, June 14-17, 2024.
 - X.X.Wang, Some Inequalities of Geometric Means in Grassmannians, Joint Mathematics Meetings (JMM 2024), San Francisco, January 3-6, 2024.
-- 	X.X.Wang, Some Inequalities of Geometric Means in Grassmannians, 6th Annual GSA Poster Symposium, November 1, 2023.
+- 	X.X.Wang, [Some Inequalities of Geometric Means in Grassmannians](./assets/files/Some_Inequalities_of_Geometric_Means_in_Grassmannians.pdf), 6th Annual GSA Poster Symposium, November 1, 2023. \[<strong>Poster</strong>\]
 - 	X.X. Wang, Geometric means and their properties of Grassmannians, The 10th International Conference on Matrix Analysis and Applications (ICMAA), KunMing, China, August 15-18, 2023.
 - 	X.X. Wang, Geometric means and their properties of Grassmannians, International Workshop on Matrix Analysis and Its Applications, Quynhon, Vietnam, July7-8, 2023.
 - 	X.X. Wang, Arnoldi method for right eigenvalue problem of the large-scale quaternion matrices, Joint Mathematics Meetings (JMM 2023), Boston, January 4-7, 2023.
