@@ -72,6 +72,12 @@ I am a Postdoctoral Research Associate in the Department of Mathematics at the U
 
 ## Publications
 
+### Preprints and Manuscripts
+- X.X. Wang, G.W. Wei, GrassTop: Grassmannian k-mer Topology for Viral Classification and Phylogenetic Analysis. Submitted to Theory in Biosciences, 2026. Preprint available on [arXiv:2609.13341](https://arxiv.org/abs/2609.13341).
+- X.X. Wang, S. Cottrell, G.W. Wei, Data-Adaptive Grassmann Manifold Representations for Spatial Transcriptomics Alignment. Submitted to SIAM Journal on Applied Mathematics, 2026. Preprint available on [arXiv:2609.12805](https://arxiv.org/abs/2609.12805).
+- S. Cottrell, X.X. Wang, G.W. Wei, A Review of Geometric, Topological, and Spectral Approaches in Single-Cell Data Analysis. Submitted to Current Opinion in Systems Biology, 2026.
+- T.Y. Tam, X.X. Wang, Geometric Means and Their Properties of Grassmannians. Preprint available on [arXiv:2412.15161](https://arxiv.org/abs/2412.15161), 2025.
+
 ### Published and Accepted
 - X.X. Wang, G.W. Wei, A Hierarchical Sheaf Spectral Embedding Framework for Single-Cell RNA-seq Analysis, SIAM Journal on Life Sciences, accepted for publication, 2026. [arXiv:2603.26858](https://arxiv.org/abs/2603.26858).
 - X.X. Wang, G.W. Wei, Multi-dimensional Persistent Sheaf Laplacians for Image Analysis, Foundations of Data Science, Early Access, 2026. [DOI: 10.3934/fods.2026024](https://doi.org/10.3934/fods.2026024).
@@ -88,12 +94,6 @@ I am a Postdoctoral Research Associate in the Department of Mathematics at the U
 - Z.H. He, C. Chen, X.X. Wang, [A simultaneous decomposition for three quaternion tensors with applications in color video signal processing](https://www.worldscientific.com/doi/10.1142/S0219530520400084), Analysis and Applications, 19 (3) (2020) 529-549.
 - Q.W. Wang, X.X. Wang, [Arnoldi method for large quaternion right eigenvalue problem](https://doi.org/10.1007/s10915-020-01158-4), Journal of Scientific Computing, 82 (2020), 58 (20 pages).
 - G.H. Peng, X.X. Wang, Y.Z. Zhang, [Multidimensional scaling analysis based on attribute reduction of bivariate mutual information](https://doi.org/10.12988/imf.2017.610133), International Mathematical Forum, 12 (3) (2017) 111-118 (9 pages).
-
-### Preprints and Manuscripts
-- X.X. Wang, G.W. Wei, GrassTop: Grassmannian k-mer Topology for Viral Classification and Phylogenetic Analysis. Submitted to Theory in Biosciences, 2026. Preprint available on [arXiv:2609.13341](https://arxiv.org/abs/2609.13341).
-- X.X. Wang, S. Cottrell, G.W. Wei, Data-Adaptive Grassmann Manifold Representations for Spatial Transcriptomics Alignment. Submitted to SIAM Journal on Applied Mathematics, 2026. Preprint available on [arXiv:2609.12805](https://arxiv.org/abs/2609.12805).
-- S. Cottrell, X.X. Wang, G.W. Wei, A Review of Geometric, Topological, and Spectral Approaches in Single-Cell Data Analysis. Submitted to Current Opinion in Systems Biology, 2026.
-- T.Y. Tam, X.X. Wang, Geometric Means and Their Properties of Grassmannians. Preprint available on [arXiv:2412.15161](https://arxiv.org/abs/2412.15161), 2025.
 
 ## Presentations
 
