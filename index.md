@@ -1,7 +1,7 @@
 ---
 layout: homepage
 ---
-I am a Postdoctoral Research Associate in the Department of Mathematics at the University of Georgia, working with Prof. [Guo-Wei Wei](https://users.math.msu.edu/users/weig/), with whom I previously spent a year as a Research Associate at Michigan State University. My research focuses on mathematical AI for data science, developing mathematical and computational tools — drawing on differential geometry, topology, and matrix analysis — to make sense of complex, high-dimensional data in biology and imaging, from single-cell genomics to viral classification. I completed my Ph.D. in Mathematics at the University of Nevada, Reno.
+I am a Postdoctoral Research Associate in the Department of Mathematics at the University of Georgia, working with Prof. [Guo-Wei Wei](https://users.math.msu.edu/users/weig/). I previously spent a year in his group as a Research Associate at Michigan State University. My research focuses on mathematical AI for data science, developing mathematical and computational tools — drawing on differential geometry, topology, and matrix analysis — to make sense of complex, high-dimensional data in biology and imaging, from single-cell genomics to viral classification. I completed my Ph.D. in Mathematics at the University of Nevada, Reno.
 
 ## News
 - **[May 2026]** Featured in Nevada Today: [Math alumna advances mathematical methods at Michigan State University](https://www.unr.edu/nevada-today/news/2026/alumna-xiang-xiang-wang)
