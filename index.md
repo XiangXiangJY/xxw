@@ -4,8 +4,17 @@ layout: homepage
 ## News
 - **[May 2026]** Featured in Nevada Today: [Math alumna advances mathematical methods at Michigan State University](https://www.unr.edu/nevada-today/news/2026/alumna-xiang-xiang-wang)
 
-## Current Position
-- **2026-Now**: Postdoctoral Research Associate, Department of Mathematics, University of Georgia (Advisor: Guo-Wei Wei)
+## Research Experience
+
+- **Postdoc Research Associate, University of Georgia**, 2026-present (Advisor: Guo-Wei Wei) — I develop mathematical AI methods for data science by integrating geometric and topological representations with machine learning. My research uses Grassmannian geometry and topological data analysis to capture structure in high-dimensional biological data. Recent projects include GrassTop for viral classification and phylogenetic analysis and data-adaptive Grassmann manifold representations for spatial transcriptomics alignment.
+- **Research Associate, Michigan State University**, 2025-2026 (Advisor: Guo-Wei Wei) — Developed geometric, topological, and spectral methods for biological and imaging data analysis, including Grassmann manifold models and sheaf-based methods.
+- **Ph.D. Student in Mathematics, University of Nevada, Reno**, 2021-2025 (Advisor: Tin-Yau Tam) — Investigated Grassmannian geometry and quaternion matrix methods for data representation, with applications to image and video analysis.
+- **Statistical Analyst, Provost Office of University of Nevada, Reno**, June 2023-August 2023 — Designed data processing workflows for the Co-Requisite Assessment Program.
+- **Master's Student in Statistics, Shanghai University**, 2017-2020 (Advisor: Qing-Wen Wang) — Researched quaternion matrices and eigenvalue problems, developed a fast algorithm for computing eigenvalues of large-scale quaternion matrices.
+
+## Funded Grants
+
+- **Co-Principal Investigator**, *Self-Assembly of Tunable Molecular Memristors with Long-Range Order for Resilient and Energy-Efficient Neuromorphic Computing*. U.S. Department of Energy, Office of Science, Basic Energy Sciences, through Pacific Northwest National Laboratory. $360,000, June 15, 2026–January 14, 2029. PNNL Award No. PNNL0000883191; DOE FWP 84274. PI: Guo-Wei Wei.
 
 ## Education
 - **2021-2025**: Ph.D. in Mathematics, Department of Mathematics and Statistics,
@@ -31,18 +40,6 @@ layout: homepage
 ## Research Interests
 
 - **Mathematical AI and Data Science, Geometric and Topological Data Analysis, Grassmannian and Riemannian Geometry, Matrix Analysis, Machine Learning for Biological and Imaging Data**
-
-## Research Experience
-
-- **Postdoc Research Associate, University of Georgia**, 2026-present (Advisor: Guo-Wei Wei) — I develop mathematical AI methods for data science by integrating geometric and topological representations with machine learning. My research uses Grassmannian geometry and topological data analysis to capture structure in high-dimensional biological data. Recent projects include GrassTop for viral classification and phylogenetic analysis and data-adaptive Grassmann manifold representations for spatial transcriptomics alignment.
-- **Research Associate, Michigan State University**, 2025-2026 (Advisor: Guo-Wei Wei) — Developed geometric, topological, and spectral methods for biological and imaging data analysis, including Grassmann manifold models and sheaf-based methods.
-- **Ph.D. Student in Mathematics, University of Nevada, Reno**, 2021-2025 (Advisor: Tin-Yau Tam) — Investigated Grassmannian geometry and quaternion matrix methods for data representation, with applications to image and video analysis.
-- **Statistical Analyst, Provost Office of University of Nevada, Reno**, June 2023-August 2023 — Designed data processing workflows for the Co-Requisite Assessment Program.
-- **Master's Student in Statistics, Shanghai University**, 2017-2020 (Advisor: Qing-Wen Wang) — Researched quaternion matrices and eigenvalue problems, developed a fast algorithm for computing eigenvalues of large-scale quaternion matrices.
-
-## Funded Grants
-
-- **Co-Principal Investigator**, *Self-Assembly of Tunable Molecular Memristors with Long-Range Order for Resilient and Energy-Efficient Neuromorphic Computing*. U.S. Department of Energy, Office of Science, Basic Energy Sciences, through Pacific Northwest National Laboratory. $360,000, June 15, 2026–January 14, 2029. PNNL Award No. PNNL0000883191; DOE FWP 84274. PI: Guo-Wei Wei.
 
 ## Main Classes Taken
 
