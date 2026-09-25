@@ -6,9 +6,9 @@ email: xw72611@uga.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Xiang Xiang Wang, topological data analysis, Grassmannian geometry, Riemannian geometry, matrix analysis, quaternion matrix, mathematical AI, machine learning, University of Georgia, Michigan State University, University of Nevada Reno
+description: Xiang Xiang Wang is a Postdoctoral Research Associate in the Department of Mathematics at the University of Georgia, working on topological and geometric data analysis, Grassmannian and Riemannian geometry, matrix analysis, and mathematical AI for biological and imaging data.
+canonical: https://xiangxiangjy.github.io/xxw/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -38,7 +38,8 @@ font: "Serif" # or "Sans Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
+# (Removed: UA-111540567-4 was the theme author's own tracking ID, not yours.
+# Add your own Google Analytics ID here if you want visitor tracking.)
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
