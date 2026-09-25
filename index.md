@@ -4,6 +4,14 @@ layout: homepage
 ## News
 - **[May 2026]** Featured in Nevada Today: [Math alumna advances mathematical methods at Michigan State University](https://www.unr.edu/nevada-today/news/2026/alumna-xiang-xiang-wang)
 
+## Research Interests
+
+- Topological and Geometric Data Analysis
+- Grassmannian and Riemannian Geometry
+- Matrix and Quaternion Matrix Analysis
+- Mathematical AI and Data Science
+- Machine Learning for Biological and Imaging Data
+
 ## Research Experience
 
 - **Postdoc Research Associate, University of Georgia**, 2026-present (Advisor: Guo-Wei Wei) — I develop mathematical AI methods for data science by integrating geometric and topological representations with machine learning. My research uses Grassmannian geometry and topological data analysis to capture structure in high-dimensional biological data. Recent projects include GrassTop for viral classification and phylogenetic analysis and data-adaptive Grassmann manifold representations for spatial transcriptomics alignment.
@@ -36,10 +44,6 @@ layout: homepage
 - "Three Good Students" Award of General Higher Education in Henan Province, 2016.
 - National Scholarship, China, 2015. (CNY 8,000)
 - Second Prize in the Sixth National College Mathematics Competition, China, 2014.
-
-## Research Interests
-
-- **Mathematical AI and Data Science, Geometric and Topological Data Analysis, Grassmannian and Riemannian Geometry, Matrix Analysis, Machine Learning for Biological and Imaging Data**
 
 ## Main Classes Taken
 
