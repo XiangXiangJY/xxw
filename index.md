@@ -1,6 +1,8 @@
 ---
 layout: homepage
 ---
+**I am on the 2026–27 academic job market**, seeking tenure-track faculty positions in mathematics. My CV is available [here](assets/files/CV_Xiang_Xiang_Wang.pdf).
+
 I am a Postdoctoral Research Associate in the Department of Mathematics at the University of Georgia, working with Prof. [Guo-Wei Wei](https://users.math.msu.edu/users/weig/). I previously spent a year in Prof. Wei's group as a Research Associate at Michigan State University. My research focuses on mathematical AI for data science, developing mathematical and computational tools — drawing on differential geometry, topology, and matrix analysis — to make sense of complex, high-dimensional data in biology and imaging, from single-cell genomics to viral classification. I completed my Ph.D. in Mathematics at the University of Nevada, Reno.
 
 ## News
