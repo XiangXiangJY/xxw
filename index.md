@@ -9,6 +9,10 @@ I am a Postdoctoral Research Associate in the Department of Mathematics at the U
 - **[Sep 2026]** Received the [2026 Phi Kappa Phi Love of Learning Award](https://phikappaphi.meritpages.com/stories/Xiang-Xiang-Wang-Receives-2026-Phi-Kappa-Phi-Love-of-Learning-Award/200728593).
 - **[May 2026]** Featured in Nevada Today: [Math alumna advances mathematical methods at Michigan State University](https://www.unr.edu/nevada-today/news/2026/alumna-xiang-xiang-wang)
 
+## Funded Grants
+
+- **Co-Principal Investigator**, *Self-Assembly of Tunable Molecular Memristors with Long-Range Order for Resilient and Energy-Efficient Neuromorphic Computing*. U.S. Department of Energy, Office of Science, Basic Energy Sciences, through Pacific Northwest National Laboratory. $360,000, June 15, 2026–January 14, 2029. PNNL Award No. PNNL0000883191; DOE FWP 84274. PI: Guo-Wei Wei.
+
 ## Research Interests
 
 - Topological and Geometric Data Analysis
@@ -24,10 +28,6 @@ I am a Postdoctoral Research Associate in the Department of Mathematics at the U
 - **Ph.D. Student in Mathematics, University of Nevada, Reno**, 2021-2025 (Advisor: Tin-Yau Tam) — Investigated Grassmannian geometry and quaternion matrix methods for data representation, with applications to image and video analysis.
 - **Statistical Analyst, Provost Office of University of Nevada, Reno**, June 2023-August 2023 — Designed data processing workflows for the Co-Requisite Assessment Program.
 - **Master's Student in Statistics, Shanghai University**, 2017-2020 (Advisor: Qing-Wen Wang) — Researched quaternion matrices and eigenvalue problems, developed a fast algorithm for computing eigenvalues of large-scale quaternion matrices.
-
-## Funded Grants
-
-- **Co-Principal Investigator**, *Self-Assembly of Tunable Molecular Memristors with Long-Range Order for Resilient and Energy-Efficient Neuromorphic Computing*. U.S. Department of Energy, Office of Science, Basic Energy Sciences, through Pacific Northwest National Laboratory. $360,000, June 15, 2026–January 14, 2029. PNNL Award No. PNNL0000883191; DOE FWP 84274. PI: Guo-Wei Wei.
 
 ## Education
 - **2021-2025**: Ph.D. in Mathematics, Department of Mathematics and Statistics,
